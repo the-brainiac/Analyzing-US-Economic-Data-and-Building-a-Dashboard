@@ -1,6 +1,8 @@
 
 <h1>Analyzing US Economic Data and  Building a Dashboard  </h1>
 
+<img src="screenshot dashboard bokeh_plot.png">
+
 <h3 id="Section_2"> Question 1: Create a dataframe that contains the GDP data and display the first five rows of the dataframe.</h3>
 
 
